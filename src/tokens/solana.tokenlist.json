@@ -107916,17 +107916,18 @@
     },
     {
       "chainId": 101,
-      "address": "7tX8bqmNyWMi9X32mFvxR2ZJh4hTjohd5Lc5WmCLxX8e",
+      "address": "26nPfD9S6Eiqm6f27ob74uQ5u6BDmMWFKbRoMPZKgNjF",
       "symbol": "MMC",
       "name": "Millionaire Mafia Club WL",
       "decimals": 0,
-      "logoURI": "https://raw.githubusercontent.com/agammc/MMCTOKEN/main/MMClogo.png",
+      "logoURI": "https://raw.githubusercontent.com/nftmmc/MMCTOKEN/main/logowl.png",
       "tags": [
         "NFT"
       ],
       "extensions": {
         "description": "Credits to Millionaire Mafia Club",
-        "twitter": "https://twitter.com/nftmmc"
+        "twitter": "https://twitter.com/nftmmc",
+        "discord": "https://www.discord.gg/millionairemafiaclub"
       }
     },
     {
